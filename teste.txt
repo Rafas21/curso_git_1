@@ -3,4 +3,13 @@ aaaaaa
 a
 a
 Revisão das aulas - att git
+<<<<<<< HEAD
 aa
+=======
+a
+a
+a
+aa
+a
+a
+>>>>>>> terceiro
